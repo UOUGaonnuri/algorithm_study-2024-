@@ -13,7 +13,7 @@ import java.util.stream.IntStream;
 * 유니온 파인드로 사이클 확인
 * - 연결하려는 두 점이 이미 같은 집합에 속해있으면 사이클이 생김
 * */
-public class Main {
+public class 20040 {
 
     public static void main(String[] args)throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

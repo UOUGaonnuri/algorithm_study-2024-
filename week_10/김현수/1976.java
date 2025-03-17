@@ -12,7 +12,7 @@ import java.util.stream.IntStream;
 * 각 도시들의 대표 도시를 찾기
 *
  */
-public class Main {
+public class 1976 {
 
     static String SUCCESS = "YES";
     static String FAIL = "NO";
