@@ -42,3 +42,5 @@
 
 # 10주차까지 내용
 <img width="1137" alt="Image" src="https://github.com/user-attachments/assets/1df7f306-f483-4b19-970f-063aa481c8c8" />
+
+| 위 레포는 10주차부터 시작합니다.
