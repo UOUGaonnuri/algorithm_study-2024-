@@ -402,4 +402,10 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+# 내 프로젝트 관련 제외 파일
+CppProperties.json
+Project4.sln
+Project4.vcxproj
+Project4.vcxproj.filters
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
