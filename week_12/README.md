@@ -9,5 +9,6 @@
 - 14718 : 용감한 용사 진수
 - 1379 : 강의실 2
 
+
 ## 문제 마무리
-<img width="754" alt="Image" src="https://github.com/user-attachments/assets/7833da1a-2ccb-4ca9-a713-1de0c8d5896a" />
+<img width="1153" alt="Image" src="https://github.com/user-attachments/assets/160e0925-f923-45fa-9d09-8bc21ed0c4f8" />

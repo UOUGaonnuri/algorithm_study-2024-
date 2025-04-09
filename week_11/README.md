@@ -12,3 +12,6 @@
 - 1368 : 물대기
 - 1833 : 고속철도 설계하기
 - 1414 : 불우이웃돕기
+
+## 문제 마무리
+<img width="1159" alt="Image" src="https://github.com/user-attachments/assets/dd0c0e5f-c70d-4f98-8a14-3c401f79153d" />
