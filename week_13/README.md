@@ -10,5 +10,6 @@
 - 1062 : 가르침
 - 1311 : 할 일 정하기 1
 
+
 ## 문제 마무리
-<img width="963" alt="Image" src="https://github.com/user-attachments/assets/6b078cc8-92b7-4fef-a41c-073eac0b8072" />
+<img width="1157" alt="Image" src="https://github.com/user-attachments/assets/00cfd6b7-096b-4a5b-b0d1-3c0edb7f519a" />
